@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 ## File Integrity Tool
 
 ### Project Description
